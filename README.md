@@ -1,12 +1,14 @@
 # PBO-TUGAS3
 
-## Nama : Raul Putra Widodo NIM : 312310610 Kelas : TI.23.A.6
+## Nama : Raul Putra Widodo 
+## NIM : 312310610 
+## Kelas : TI.23.A.6
 
 ## SOAL
 <img src="SOAL.jpeg">
 
 ## Kode Program Java
-// Deklarasi class Person
+```// Deklarasi class Person
 class Person {
     // Atribut dengan access modifier private
     private String nama;
@@ -71,6 +73,7 @@ public class Main {
         System.out.println("Umur: " + riko.getUmur());
     }
 }
+```
 # Output
 <img src="Output (2).png">
 
