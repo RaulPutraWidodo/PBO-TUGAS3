@@ -3,7 +3,7 @@
 ## Nama : Raul Putra Widodo NIM : 312310610 Kelas : TI.23.A.6
 
 ## SOAL
-<img src="soal.jpeg">
+<img src="SOAL.jpeg">
 
 ## Kode Program Java
 // Deklarasi class Person
@@ -72,5 +72,19 @@ public class Main {
     }
 }
 # Output
+<img src="Output (2).png">
 
   # Penjelasan
+**Deklarasi Kelas:**
+Kelas Person dideklarasikan dengan tiga atribut: nama, jenisKelamin, dan umur, semuanya menggunakan modifier private untuk menjaga akses hanya melalui metode getter dan setter.
+
+**Metode Setter dan Getter:**
+Setiap atribut memiliki metode setter untuk memasukkan nilai dan getter untuk mengambil nilai.
+
+**Pembuatan Objek:**
+-Objek Anton dan Riko dibuat dari kelas Person.
+
+-Data untuk masing-masing objek diatur menggunakan metode setter.
+
+**Output:**
+Setelah objek diisi dengan data, informasi dari objek ditampilkan menggunakan metode getter.
